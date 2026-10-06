@@ -33,11 +33,11 @@ It wrote the code, ran away, and now the game is unplayable.
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. user will be given a finite number of guesses to enter a number between 1 and 100. 
+2. User must click submit button once they enter a guess
+3.game will tell user if the guess is too high/low/correct
+4. If too high or low, game will keep prompting player to enter a number 
+5. If the guess is correct, user is told they have won
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
